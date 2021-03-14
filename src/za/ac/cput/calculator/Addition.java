@@ -10,7 +10,23 @@ package za.ac.cput.calculator;
  * @author mandisa
  */
 public class Addition {
+    /**
+     * this add two integers 
+     * @param a
+     * @param b
+     * @return 
+     */
     public static int  integerSum(int a , int b){
+    return a + b;
+    }
+    /**
+     * this adds two real numbers
+     * @param a
+     * @param b
+     * @return 
+     */
+    public static double doubleSum(double a , double b ){
+    
     return a + b;
     }
     
