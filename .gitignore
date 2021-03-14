@@ -1,0 +1,5 @@
+#Files and folders to be ignored GIT
+#Netbeans specifics folders and files 
+/nbproject/
+build.xml
+manifest.mf
